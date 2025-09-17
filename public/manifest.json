@@ -1,0 +1,23 @@
+{
+  "name": "Penguin",
+  "short_name": "Penguin",
+  "description": "AI-powered development assistant",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FE2E92",
+  "icons": [
+    {
+      "src": "/penguin-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/penguin-logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
